@@ -1,0 +1,39 @@
+C:\Users\Computer Paradise\source\repos\battery\obj\Debug\battery.csproj.AssemblyReference.cache
+C:\Users\Computer Paradise\source\repos\battery\obj\Debug\battery.Form1.resources
+C:\Users\Computer Paradise\source\repos\battery\obj\Debug\battery.Form2.resources
+C:\Users\Computer Paradise\source\repos\battery\obj\Debug\battery.csproj.GenerateResource.cache
+C:\Users\Computer Paradise\source\repos\battery\bin\Debug\battery.exe.config
+C:\Users\Computer Paradise\source\repos\battery\bin\Debug\battery.exe
+C:\Users\Computer Paradise\source\repos\battery\bin\Debug\battery.pdb
+C:\Users\Computer Paradise\source\repos\battery\bin\Debug\M2Mqtt.Net.dll
+C:\Users\Computer Paradise\source\repos\battery\bin\Debug\Telerik.WinControls.dll
+C:\Users\Computer Paradise\source\repos\battery\bin\Debug\Telerik.WinControls.RadMap.dll
+C:\Users\Computer Paradise\source\repos\battery\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\Computer Paradise\source\repos\battery\bin\Debug\TelerikCommon.dll
+C:\Users\Computer Paradise\source\repos\battery\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\Computer Paradise\source\repos\battery\bin\Debug\Telerik.WinControls.xml
+C:\Users\Computer Paradise\source\repos\battery\bin\Debug\Telerik.WinControls.RadMap.xml
+C:\Users\Computer Paradise\source\repos\battery\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\Computer Paradise\source\repos\battery\obj\Debug\battery.Properties.Resources.resources
+C:\Users\Computer Paradise\source\repos\battery\obj\Debug\battery.csproj.CoreCompileInputs.cache
+C:\Users\Computer Paradise\source\repos\battery\obj\Debug\battery.csproj.CopyComplete
+C:\Users\Computer Paradise\source\repos\battery\obj\Debug\battery.exe
+C:\Users\Computer Paradise\source\repos\battery\obj\Debug\battery.pdb
+C:\Users\aryan\OneDrive\Desktop\inhaler\battery\obj\Debug\battery.csproj.AssemblyReference.cache
+C:\Users\aryan\OneDrive\Desktop\inhaler\battery\obj\Debug\battery.exe
+C:\Users\aryan\OneDrive\Desktop\inhaler\battery\obj\Debug\battery.pdb
+C:\Users\aryan\OneDrive\Desktop\inhaler\battery\bin\Debug\battery.exe.config
+C:\Users\aryan\OneDrive\Desktop\inhaler\battery\bin\Debug\battery.exe
+C:\Users\aryan\OneDrive\Desktop\inhaler\battery\bin\Debug\battery.pdb
+C:\Users\aryan\OneDrive\Desktop\inhaler\battery\bin\Debug\M2Mqtt.Net.dll
+C:\Users\aryan\OneDrive\Desktop\inhaler\battery\bin\Debug\TelerikCommon.dll
+C:\Users\aryan\OneDrive\Desktop\inhaler\battery\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\aryan\OneDrive\Desktop\inhaler\battery\bin\Debug\Telerik.WinControls.xml
+C:\Users\aryan\OneDrive\Desktop\inhaler\battery\bin\Debug\Telerik.WinControls.RadMap.xml
+C:\Users\aryan\OneDrive\Desktop\inhaler\battery\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\aryan\OneDrive\Desktop\inhaler\battery\obj\Debug\battery.Form1.resources
+C:\Users\aryan\OneDrive\Desktop\inhaler\battery\obj\Debug\battery.Form2.resources
+C:\Users\aryan\OneDrive\Desktop\inhaler\battery\obj\Debug\battery.Properties.Resources.resources
+C:\Users\aryan\OneDrive\Desktop\inhaler\battery\obj\Debug\battery.csproj.GenerateResource.cache
+C:\Users\aryan\OneDrive\Desktop\inhaler\battery\obj\Debug\battery.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\inhaler\battery\obj\Debug\battery.csproj.Up2Date
